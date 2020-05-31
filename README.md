@@ -1,4 +1,4 @@
-It's a basic react app for storing answers using firebase. \
+It's a basic react app for storing answers using firebase.
 - use npm install.
 - initate your fire base account.
 - use your own credentials. 
